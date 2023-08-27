@@ -1,0 +1,52 @@
+nav { 
+    text-align: auto; 
+    padding: 5px 130px; 
+    margin: 10px,
+          }
+  
+  body {
+      font-family: 'Josefin Sans', sans-serif;
+  }
+  h1 {
+      text-align: center;
+      color: #d50000 ;
+      margin: 30px auto;
+    border-line: 20px
+  }
+  body {
+      padding: 20px;
+  }
+  .container {
+      max-width: 800px;
+      margin: 0 auto;
+  }
+  body {
+      background-color: yellow
+  }
+  img {
+      padding: 20px 170px ;
+  }
+  h3 {
+      text-align: center;
+      color: black;
+      margin: 30px auto;
+    border-line: 20px
+  }
+  .cluby{
+  list-style-type: square;
+  }
+  .boxmodel{
+    border:5px solid #424242;
+    padding: 5px 100px;
+  }
+  strong{
+    color: red;
+  }
+  .boxh1{
+    border:20px solid #424242;
+    padding: 5px 50px;
+  }
+  View Compiled
+  
+  
+  Resources
